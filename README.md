@@ -1,3 +1,5 @@
+**Project Goals**
+
 •	To develop a lightweight, responsive dashboard that can visualize oceanographic parameters dynamically.
 
 •	To integrate rolling statistical analyses (e.g., moving averages, z-scores) for interpreting short-term trends.
